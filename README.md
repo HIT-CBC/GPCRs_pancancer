@@ -9,4 +9,4 @@ The codes used in this study are all in pan-cancer.R
 + ├─ Boruta				      //// Use of the Boruta algorithm
 + ├─ Specific gene classification model		   //// main code for look for specific genes in cancer
 + ├─ KEGG                    //// Differential gene pathway annotation
-+ ├─ Predict Drugs                //// main code for ic50 prediction and drug target prediction****
++ ├─ Predict Drugs                //// main code for ic50 prediction and drug target prediction
