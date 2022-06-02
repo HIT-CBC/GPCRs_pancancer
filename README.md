@@ -1,7 +1,7 @@
 # GPCRs_pancancer
 DNA methylation specific analysis of G-protein-coupled receptor-associated genes in pan-cancer. In this study, we analyzed the pan-cancer DNA methylation data from TCGA and GEO, and proposed a computational method to quantify the degree of specificity based on the level of DNA methylation of G protein-coupled receptor-related genes (GPCRs-related genes) and to identify specific GPCRs DNA methylation biomarkers (GRSDMs) in pan-cancer. Then, a ridge regression-based method was used to discover potential drugs through predicting the drug sensitivities of cancer samples.
 # Getting Started
-R(https://www.r-project.org/)>=4.1.1 are required for the current codebase.
+R(https://www.r-project.org/) >=4.1.1 are required for the current codebase.
 # R code
 The codes used in this study are all in pan-cancer.R
 + ├─ Data preprocessing         
