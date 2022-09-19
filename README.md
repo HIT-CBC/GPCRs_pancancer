@@ -16,7 +16,7 @@ The codes used in this study are all in pan-cancer.R
 + ├─ KEGG                    //// Differential gene pathway annotation
 + ├─ Predict Drugs                //// main code for ic50 prediction and drug target prediction
 
-#Reference
+# Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
 
 Zhang M, Zhao J, Dong H, Xue W, Xing J, Liu T, Yu X, Gu Y, Sun B, Lu H, Zhang Y. DNA Methylation-Specific Analysis of G Protein-Coupled Receptor-Related Genes in Pan-Cancer. Genes (Basel). 2022 Jul 7;13(7):1213. doi: 10.3390/genes13071213. PMID: 35885996; PMCID: PMC9320183.
