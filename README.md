@@ -15,3 +15,5 @@ The codes used in this study are all in pan-cancer.R
 + ├─ Specific gene classification model		   //// main code for look for specific genes in cancer
 + ├─ KEGG                    //// Differential gene pathway annotation
 + ├─ Predict Drugs                //// main code for ic50 prediction and drug target prediction
+
+Please cite : Zhang M, Zhao J, Dong H, Xue W, Xing J, Liu T, Yu X, Gu Y, Sun B, Lu H, Zhang Y. DNA Methylation-Specific Analysis of G Protein-Coupled Receptor-Related Genes in Pan-Cancer. Genes (Basel). 2022 Jul 7;13(7):1213. doi: 10.3390/genes13071213. PMID: 35885996; PMCID: PMC9320183.
